@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_UISearchController_SearchResultController_Example : NSObject
+@end
+@implementation PodsDummy_Pods_UISearchController_SearchResultController_Example
+@end
