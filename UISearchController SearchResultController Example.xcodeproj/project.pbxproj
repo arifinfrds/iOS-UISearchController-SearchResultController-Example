@@ -13,6 +13,10 @@
 		924B95932232C60F009B4B3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924B95912232C60F009B4B3F /* LaunchScreen.storyboard */; };
 		924B959B2232C730009B4B3F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 924B959A2232C730009B4B3F /* DetailViewController.swift */; };
 		B4DEA9870A30B51E3C15E0F3 /* Pods_UISearchController_SearchResultController_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A626B4E1031F7ED54838003 /* Pods_UISearchController_SearchResultController_Example.framework */; };
+		FECF514ED5C8F8DAE6F73B24 /* Master2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECF5022D933FEAFABAB7AE9 /* Master2ViewController.swift */; };
+		FECF517B84884234FE7E4AB9 /* Master2ResultController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECF513601E87EEB6BA5A6A9 /* Master2ResultController.swift */; };
+		FECF57F825ED6FB32938D2FD /* Master2ResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECF58CBE3C8F2D7DF907653 /* Master2ResultCell.swift */; };
+		FECF5AD897354858C2B4A9A5 /* DownloadService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECF5C25759582AB3AA7265C /* DownloadService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		924B95942232C60F009B4B3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		924B959A2232C730009B4B3F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		9E1BB7C0C476D47A3C83B932 /* Pods-UISearchController SearchResultController Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UISearchController SearchResultController Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-UISearchController SearchResultController Example/Pods-UISearchController SearchResultController Example.release.xcconfig"; sourceTree = "<group>"; };
+		FECF5022D933FEAFABAB7AE9 /* Master2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Master2ViewController.swift; sourceTree = "<group>"; };
+		FECF513601E87EEB6BA5A6A9 /* Master2ResultController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Master2ResultController.swift; sourceTree = "<group>"; };
+		FECF58CBE3C8F2D7DF907653 /* Master2ResultCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Master2ResultCell.swift; sourceTree = "<group>"; };
+		FECF5C25759582AB3AA7265C /* DownloadService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +92,10 @@
 				924B958F2232C60F009B4B3F /* Assets.xcassets */,
 				924B95912232C60F009B4B3F /* LaunchScreen.storyboard */,
 				924B95942232C60F009B4B3F /* Info.plist */,
+				FECF5022D933FEAFABAB7AE9 /* Master2ViewController.swift */,
+				FECF513601E87EEB6BA5A6A9 /* Master2ResultController.swift */,
+				FECF58CBE3C8F2D7DF907653 /* Master2ResultCell.swift */,
+				FECF5C25759582AB3AA7265C /* DownloadService.swift */,
 			);
 			path = "UISearchController SearchResultController Example";
 			sourceTree = "<group>";
@@ -202,6 +214,10 @@
 				924B959B2232C730009B4B3F /* DetailViewController.swift in Sources */,
 				924B958B2232C60D009B4B3F /* MasterViewController.swift in Sources */,
 				924B95892232C60D009B4B3F /* AppDelegate.swift in Sources */,
+				FECF514ED5C8F8DAE6F73B24 /* Master2ViewController.swift in Sources */,
+				FECF517B84884234FE7E4AB9 /* Master2ResultController.swift in Sources */,
+				FECF57F825ED6FB32938D2FD /* Master2ResultCell.swift in Sources */,
+				FECF5AD897354858C2B4A9A5 /* DownloadService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
